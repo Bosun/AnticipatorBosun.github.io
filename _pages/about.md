@@ -1,12 +1,11 @@
-```
+---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from:
- - /about/
- - /about.html
-```
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a freshmen from Xi'an Jiaotong Univerity. My research interest includes homomorphic encryption, computer vision, computer graphics and theoretical machine learning.
 
