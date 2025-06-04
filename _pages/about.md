@@ -9,8 +9,8 @@ redirect_from:
 
 Hi everone!
 
-I'm Zhang Baosheng, a freshmen from Xi'an Jiaotong Univerity. My research interest includes Privacy Computing, Computer Vision, Computer Graphics, Theoretical Machine Learning and Theoretical Computer Science.
+I'm Zhang Baosheng, a undergraduate from College of Computer Science, Xi'an Jiaotong Univerity. 
 
-I am very fortunate to be advised by [Prof. Liu Longjun](https://gr.xjtu.edu.cn/en/web/liulongjun) from [School of Artificial Intelligence](http://www.aiar.xjtu.edu.cn/), Xi'an Jiaotong University. 
+I am very fortunate to be advised by [Prof. Li Jiliang](https://gr.xjtu.edu.cn/en/web/jiliang.li) from [School of Cyber Science and Engineering](https://cybersec.xjtu.edu.cn/index.htm), Xi'an Jiaotong University. 
 
 You can contact me with [Email](2831532315@stu.xjtu.edu.cn) or [Github](https://github.com/Bosun), glad to meet you!
